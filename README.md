@@ -21,13 +21,13 @@ Este programa fue desarrollado en Android Studio
 Clonamos el proyecto
 
 ```bash
-  git clone 
+  git clone https://github.com/byronjavi/Calculadora.git
 ```
 
 
 ## 📲 Descargar archivo .JAR
 
 Puedes descargar el archivo APK desde el siguiente enlace:  
-[juego.JAR](https://github.com/byronjavi/JuegoPiedraPapelTijera/JuegoPiedraPapelTijera.jar)
+[juego.JAR](https://drive.google.com/file/d/1_c9afVCDNKiCJrNoNE-Nl5sDPKkRid4d/view?usp=sharing)
 ```
 
