@@ -28,6 +28,6 @@ Clonamos el proyecto
 ## 📲 Descargar archivo .JAR
 
 Puedes descargar el archivo APK desde el siguiente enlace:  
-[juego.JAR](https://drive.google.com/file/d/1_c9afVCDNKiCJrNoNE-Nl5sDPKkRid4d/view?usp=sharing)
+[Calculadora.apk](https://drive.google.com/file/d/1_c9afVCDNKiCJrNoNE-Nl5sDPKkRid4d/view?usp=sharing)
 ```
 
