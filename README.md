@@ -25,7 +25,7 @@ Clonamos el proyecto
 ```
 
 
-## 📲 Descargar archivo .JAR
+## 📲 Descargar archivo 
 
 Puedes descargar el archivo APK desde el siguiente enlace:  
 [Calculadora.apk](https://drive.google.com/file/d/1_c9afVCDNKiCJrNoNE-Nl5sDPKkRid4d/view?usp=sharing)
